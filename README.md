@@ -7,13 +7,11 @@
 
 - 😄 Pronouns `he`/`him`/`his`
 
-- 🔭 Working on [RukPak](https://github.com/operator-framework/rukpak)
+- 🔭 Working on [Acorn](https://github.com/acorn-io/acorn)
 
-- 🌱 Learning **Rust, React, and React Native**
+- 🌱 Learning **GitOps, Rust, and React**
 
 - 👯 Let's collaborate on [dcp](https://github.com/exdx/dcp)
-
-- 👨‍💻 My projects: https://github.com/tylerslaton
 
 - 📝 I occasionally write articles: https://medium.com/@mtslaton1
 
