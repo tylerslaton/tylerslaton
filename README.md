@@ -11,7 +11,7 @@
 
 - 🌱 Learning **Realtime AI, LangGraph, and Mastra**
 
-- 👯 Let's collaborate on [dcp](https://github.com/copilotkit/copilotkit)
+- 👯 Let's collaborate on [CopilotKit](https://github.com/copilotkit/copilotkit)
 
 - 📝 I occasionally write articles: https://medium.com/@mtslaton1
 
